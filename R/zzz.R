@@ -22,7 +22,7 @@
     ## Make and export BSgenome object.
     bsgenome <- BSgenome(
         organism="Cryptococcus neoformans var. grubii KN99",
-        common_name="cryptococcus",
+        common_name="cneoformans KN99",
         genome="ASM221672v1",
         provider="NCBI",
         release_date="July 2017",

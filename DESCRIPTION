@@ -9,9 +9,9 @@ Imports: BSgenome
 Suggests: 
 License: Artistic-2.0
 organism: Cryptococcus neoformans var. grubii KN99
-common_name: cryptococcus
+common_name: cneoformans KN99
 genome: ASM221672v1
 provider: NCBI
 release_date: July 2017
 source_url: https://www.ncbi.nlm.nih.gov/assembly/GCA_002216725.1/
-biocViews: AnnotationData, Genetics, BSgenome, CneoformansVarGrubiiKN99
+biocViews: AnnotationData, Genetics, BSgenome, Cryptococcus_neoformans_var_grubii_KN99
