@@ -1,0 +1,17 @@
+Package: BSgenome.CneoformansVarGrubiiKN99.NCBI.ASM221672v1
+Title: Full Genome Sequence for Cryptococcus neoformans var. grubii KN99 (ASM221672v1)
+Description: Full genome sequences for Cryptococcus neoformans var. grubii KN99 (assembly ASM221672v1 assembly accession GCA_002216725.1).
+Version: 1.0.0
+Author: The Bioconductor Dev Team
+Maintainer: Chase Mateusiak <chasem@wustl.edu>
+Depends: R (>= 3.5.0), BSgenome (>= 1.62.0)
+Imports: BSgenome
+Suggests: 
+License: Artistic-2.0
+organism: Cryptococcus neoformans var. grubii KN99
+common_name: cneoformans KN99
+genome: ASM221672v1
+provider: NCBI
+release_date: July 2017
+source_url: https://www.ncbi.nlm.nih.gov/assembly/GCA_002216725.1/
+biocViews: AnnotationData, Genetics, BSgenome, Cryptococcus_neoformans_var_grubii_KN99
